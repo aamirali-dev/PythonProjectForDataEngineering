@@ -78,7 +78,7 @@ To execute the ETL process, follow these steps:
 - Joseph Santrcangelo
 - Azim Hirjani
 
-### Other Contributors
+### Contributors
 
 - Aamir Ali
 
